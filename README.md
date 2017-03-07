@@ -7,6 +7,14 @@
 
 Blog escrito en Django/python/Postgres/Redis para montar blogs de tecnología.
 
+
+
+### Empezando
+
+``` shell
+git clone --recursive git@github.com:dockerlapaz/3-django-docker-dev.git
+```
+
 ### Recursos
 
 - [Slides](https://slides.com/vicobits/django-docker-dev/)
