@@ -1,0 +1,3 @@
+[submodule "bitblog"]
+	path = bitblog
+	url = https://github.com/vicobits/bitblog
